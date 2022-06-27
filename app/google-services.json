@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106422642204",
+    "project_id": "e-commerce-dc2c4",
+    "storage_bucket": "e-commerce-dc2c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106422642204:android:057ea3fc6f079f41b921d9",
+        "android_client_info": {
+          "package_name": "com.burcak.sahin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106422642204-4dlmqmdds5d077jkauct45c4cpuvg118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UGl_3Lh2lop1lEO50hkM7TPEd1bYvPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106422642204-4dlmqmdds5d077jkauct45c4cpuvg118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
